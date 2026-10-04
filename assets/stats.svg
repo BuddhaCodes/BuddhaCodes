@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="146" viewBox="0 0 520 146" role="img" aria-label="BuddhaCodes">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="146" viewBox="0 0 520 146" role="img" aria-label="Jose Alberto Thaureaux Rodriguez">
   <style>
     .t { font: 600 15px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
     .r { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8e93ad; }
@@ -12,13 +12,13 @@
   </style>
   <defs><linearGradient id="dana" x1="0" x2="1"><stop offset="0" stop-color="#e2567a"/><stop offset=".55" stop-color="#f0a040"/><stop offset="1" stop-color="#d9b45a"/></linearGradient></defs>
   <rect x=".5" y=".5" width="519" height="145" rx="10" fill="#10162b" stroke="#26304f"/>
-  <text class="t" x="22" y="32">BuddhaCodes</text>
+  <text class="t" x="22" y="32">Jose Alberto Thaureaux Rodriguez</text>
   <rect x="22" y="40" width="34" height="2" rx="1" fill="url(#dana)"/>
   <rect x="1" y="1" width="518" height="2" rx="1" fill="url(#dana)" opacity=".7"/>
   <text class="r" x="498" y="32" text-anchor="end">@BuddhaCodes</text>
-  <g class="in" style="animation-delay:0.00s"><text class="n" x="69.6" y="92" text-anchor="middle">6</text><rect x="55.6" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="69.6" y="124" text-anchor="middle">repos</text></g>
-  <g class="in" style="animation-delay:0.08s"><text class="n" x="164.8" y="92" text-anchor="middle">3</text><rect x="150.8" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="164.8" y="124" text-anchor="middle">stars</text></g>
-  <g class="in" style="animation-delay:0.16s"><text class="n" x="260.0" y="92" text-anchor="middle">12</text><rect x="246.0" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="260.0" y="124" text-anchor="middle">followers</text></g>
-  <g class="in" style="animation-delay:0.24s"><text class="n" x="355.2" y="92" text-anchor="middle">812</text><rect x="341.2" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="355.2" y="124" text-anchor="middle">commits · 1y</text></g>
-  <g class="in" style="animation-delay:0.32s"><text class="n" x="450.4" y="92" text-anchor="middle">4</text><rect x="436.4" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="450.4" y="124" text-anchor="middle">PRs · 1y</text></g>
+  <g class="in" style="animation-delay:0.00s"><text class="n" x="69.6" y="92" text-anchor="middle">9</text><rect x="55.6" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="69.6" y="124" text-anchor="middle">repos</text></g>
+  <g class="in" style="animation-delay:0.08s"><text class="n" x="164.8" y="92" text-anchor="middle">4</text><rect x="150.8" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="164.8" y="124" text-anchor="middle">stars</text></g>
+  <g class="in" style="animation-delay:0.16s"><text class="n" x="260.0" y="92" text-anchor="middle">2</text><rect x="246.0" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="260.0" y="124" text-anchor="middle">followers</text></g>
+  <g class="in" style="animation-delay:0.24s"><text class="n" x="355.2" y="92" text-anchor="middle">168</text><rect x="341.2" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="355.2" y="124" text-anchor="middle">commits · 1y</text></g>
+  <g class="in" style="animation-delay:0.32s"><text class="n" x="450.4" y="92" text-anchor="middle">2</text><rect x="436.4" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="450.4" y="124" text-anchor="middle">PRs · 1y</text></g>
 </svg>

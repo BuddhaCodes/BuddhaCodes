@@ -15,7 +15,7 @@
   <text class="t" x="22" y="32">contribution goban</text>
   <rect x="22" y="40" width="34" height="2" rx="1" fill="url(#dana)"/>
   <rect x="1" y="1" width="744" height="2" rx="1" fill="url(#dana)" opacity=".7"/>
-  <text class="r" x="724" y="32" text-anchor="end">435 contributions · last year</text>
+  <text class="r" x="724" y="32" text-anchor="end">176 contributions · last year</text>
   <defs><radialGradient id="st" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#ece8de"/><stop offset="1" stop-color="#b5ad9b"/></radialGradient><radialGradient id="hot" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff6d8"/><stop offset=".55" stop-color="#f0d594"/><stop offset="1" stop-color="#d9b45a"/></radialGradient></defs>
   <rect x="30" y="74" width="696" height="98" rx="4" fill="#151c33"/>
   <path d="M40 84V162 M53 84V162 M66 84V162 M79 84V162 M92 84V162 M105 84V162 M118 84V162 M131 84V162 M144 84V162 M157 84V162 M170 84V162 M183 84V162 M196 84V162 M209 84V162 M222 84V162 M235 84V162 M248 84V162 M261 84V162 M274 84V162 M287 84V162 M300 84V162 M313 84V162 M326 84V162 M339 84V162 M352 84V162 M365 84V162 M378 84V162 M391 84V162 M404 84V162 M417 84V162 M430 84V162 M443 84V162 M456 84V162 M469 84V162 M482 84V162 M495 84V162 M508 84V162 M521 84V162 M534 84V162 M547 84V162 M560 84V162 M573 84V162 M586 84V162 M599 84V162 M612 84V162 M625 84V162 M638 84V162 M651 84V162 M664 84V162 M677 84V162 M690 84V162 M703 84V162 M716 84V162 M40 84H716 M40 97H716 M40 110H716 M40 123H716 M40 136H716 M40 149H716 M40 162H716" stroke="#d9b45a" stroke-opacity=".16" stroke-width="1"/>
@@ -24,103 +24,45 @@
   <circle cx="417" cy="123" r="1.8" fill="#d9b45a" fill-opacity=".45"/>
   <circle cx="586" cy="123" r="1.8" fill="#d9b45a" fill-opacity=".45"/>
   <text class="l" x="40" y="68" font-size="10">Oct</text>
-  <circle class="in" style="animation-delay:0.00s" cx="40" cy="97" r="5.2" fill="url(#hot)"><title>2025-10-06: 13</title></circle>
-  <circle class="in" style="animation-delay:0.00s" cx="40" cy="110" r="4.2" fill="url(#st)"><title>2025-10-07: 8</title></circle>
-  <circle class="in" style="animation-delay:0.00s" cx="40" cy="123" r="4.2" fill="url(#st)"><title>2025-10-08: 8</title></circle>
-  <circle class="in" style="animation-delay:0.00s" cx="40" cy="136" r="4.2" fill="url(#st)"><title>2025-10-09: 8</title></circle>
-  <circle class="in" style="animation-delay:0.00s" cx="40" cy="162" r="4.2" fill="url(#st)"><title>2025-10-11: 5</title></circle>
-  <circle class="in" style="animation-delay:0.01s" cx="53" cy="84" r="2.4" fill="url(#st)"><title>2025-10-12: 1</title></circle>
-  <circle class="in" style="animation-delay:0.01s" cx="53" cy="110" r="4.2" fill="url(#st)"><title>2025-10-14: 8</title></circle>
-  <circle class="in" style="animation-delay:0.01s" cx="53" cy="123" r="2.4" fill="url(#st)"><title>2025-10-15: 2</title></circle>
-  <circle class="in" style="animation-delay:0.01s" cx="53" cy="162" r="4.2" fill="url(#st)"><title>2025-10-18: 8</title></circle>
-  <circle class="in" style="animation-delay:0.02s" cx="66" cy="110" r="2.4" fill="url(#st)"><title>2025-10-21: 2</title></circle>
-  <circle class="in" style="animation-delay:0.02s" cx="66" cy="136" r="2.4" fill="url(#st)"><title>2025-10-23: 1</title></circle>
-  <circle class="in" style="animation-delay:0.04s" cx="79" cy="97" r="4.2" fill="url(#st)"><title>2025-10-27: 8</title></circle>
-  <circle class="in" style="animation-delay:0.04s" cx="79" cy="149" r="2.4" fill="url(#st)"><title>2025-10-31: 1</title></circle>
+  <circle class="in" style="animation-delay:0.01s" cx="53" cy="97" r="2.4" fill="url(#st)"><title>2025-10-13: 1</title></circle>
   <text class="l" x="92" y="68" font-size="10">Nov</text>
-  <circle class="in" style="animation-delay:0.06s" cx="105" cy="84" r="2.4" fill="url(#st)"><title>2025-11-09: 2</title></circle>
-  <circle class="in" style="animation-delay:0.06s" cx="105" cy="97" r="3.3" fill="url(#st)"><title>2025-11-10: 3</title></circle>
-  <circle class="in" style="animation-delay:0.07s" cx="118" cy="84" r="4.2" fill="url(#st)"><title>2025-11-16: 5</title></circle>
-  <circle class="in" style="animation-delay:0.07s" cx="118" cy="97" r="3.3" fill="url(#st)"><title>2025-11-17: 3</title></circle>
-  <circle class="in" style="animation-delay:0.07s" cx="118" cy="110" r="4.2" fill="url(#st)"><title>2025-11-18: 5</title></circle>
-  <circle class="in" style="animation-delay:0.07s" cx="118" cy="149" r="4.2" fill="url(#st)"><title>2025-11-21: 8</title></circle>
-  <circle class="in" style="animation-delay:0.10s" cx="144" cy="123" r="5.2" fill="url(#hot)"><title>2025-12-03: 13</title></circle>
+  <circle class="in" style="animation-delay:0.07s" cx="118" cy="149" r="2.4" fill="url(#st)"><title>2025-11-21: 1</title></circle>
   <text class="l" x="157" y="68" font-size="10">Dec</text>
-  <circle class="in" style="animation-delay:0.13s" cx="183" cy="84" r="4.2" fill="url(#st)"><title>2025-12-21: 5</title></circle>
-  <circle class="in" style="animation-delay:0.14s" cx="196" cy="123" r="2.4" fill="url(#st)"><title>2025-12-31: 2</title></circle>
-  <circle class="in" style="animation-delay:0.14s" cx="196" cy="136" r="5.2" fill="url(#hot)"><title>2026-01-01: 13</title></circle>
   <text class="l" x="209" y="68" font-size="10">Jan</text>
-  <circle class="in" style="animation-delay:0.16s" cx="209" cy="110" r="4.2" fill="url(#st)"><title>2026-01-06: 5</title></circle>
-  <circle class="in" style="animation-delay:0.16s" cx="209" cy="162" r="4.2" fill="url(#st)"><title>2026-01-10: 8</title></circle>
-  <circle class="in" style="animation-delay:0.19s" cx="248" cy="97" r="4.2" fill="url(#st)"><title>2026-01-26: 8</title></circle>
-  <circle class="in" style="animation-delay:0.19s" cx="248" cy="110" r="2.4" fill="url(#st)"><title>2026-01-27: 1</title></circle>
   <text class="l" x="261" y="68" font-size="10">Feb</text>
-  <circle class="in" style="animation-delay:0.20s" cx="261" cy="84" r="2.4" fill="url(#st)"><title>2026-02-01: 2</title></circle>
-  <circle class="in" style="animation-delay:0.20s" cx="261" cy="110" r="3.3" fill="url(#st)"><title>2026-02-03: 3</title></circle>
-  <circle class="in" style="animation-delay:0.20s" cx="261" cy="162" r="4.2" fill="url(#st)"><title>2026-02-07: 5</title></circle>
-  <circle class="in" style="animation-delay:0.22s" cx="274" cy="123" r="2.4" fill="url(#st)"><title>2026-02-11: 1</title></circle>
-  <circle class="in" style="animation-delay:0.24s" cx="300" cy="123" r="3.3" fill="url(#st)"><title>2026-02-25: 3</title></circle>
   <text class="l" x="313" y="68" font-size="10">Mar</text>
-  <circle class="in" style="animation-delay:0.29s" cx="352" cy="123" r="2.4" fill="url(#st)"><title>2026-03-25: 1</title></circle>
-  <circle class="in" style="animation-delay:0.30s" cx="365" cy="162" r="5.2" fill="url(#hot)"><title>2026-04-04: 13</title></circle>
+  <circle class="in" style="animation-delay:0.25s" cx="313" cy="123" r="4.2" fill="url(#st)"><title>2026-03-04: 4</title></circle>
+  <circle class="in" style="animation-delay:0.26s" cx="326" cy="97" r="2.4" fill="url(#st)"><title>2026-03-09: 1</title></circle>
   <text class="l" x="378" y="68" font-size="10">Apr</text>
-  <circle class="in" style="animation-delay:0.31s" cx="378" cy="84" r="4.2" fill="url(#st)"><title>2026-04-05: 5</title></circle>
-  <circle class="in" style="animation-delay:0.31s" cx="378" cy="136" r="5.2" fill="url(#hot)"><title>2026-04-09: 13</title></circle>
-  <circle class="in" style="animation-delay:0.32s" cx="391" cy="149" r="2.4" fill="url(#st)"><title>2026-04-17: 2</title></circle>
-  <circle class="in" style="animation-delay:0.32s" cx="391" cy="162" r="4.2" fill="url(#st)"><title>2026-04-18: 8</title></circle>
-  <circle class="in" style="animation-delay:0.34s" cx="404" cy="110" r="4.2" fill="url(#st)"><title>2026-04-21: 8</title></circle>
-  <circle class="in" style="animation-delay:0.35s" cx="417" cy="84" r="2.4" fill="url(#st)"><title>2026-04-26: 1</title></circle>
-  <circle class="in" style="animation-delay:0.35s" cx="417" cy="123" r="5.2" fill="url(#hot)"><title>2026-04-29: 13</title></circle>
   <text class="l" x="430" y="68" font-size="10">May</text>
-  <circle class="in" style="animation-delay:0.37s" cx="443" cy="97" r="5.2" fill="url(#hot)"><title>2026-05-11: 13</title></circle>
-  <circle class="in" style="animation-delay:0.38s" cx="456" cy="136" r="4.2" fill="url(#st)"><title>2026-05-21: 5</title></circle>
-  <circle class="in" style="animation-delay:0.40s" cx="469" cy="97" r="2.4" fill="url(#st)"><title>2026-05-25: 2</title></circle>
-  <circle class="in" style="animation-delay:0.41s" cx="482" cy="110" r="4.2" fill="url(#st)"><title>2026-06-02: 8</title></circle>
-  <circle class="in" style="animation-delay:0.41s" cx="482" cy="123" r="2.4" fill="url(#st)"><title>2026-06-03: 2</title></circle>
   <text class="l" x="495" y="68" font-size="10">Jun</text>
-  <circle class="in" style="animation-delay:0.44s" cx="521" cy="149" r="2.4" fill="url(#st)"><title>2026-06-26: 1</title></circle>
-  <circle class="in" style="animation-delay:0.46s" cx="534" cy="149" r="2.4" fill="url(#st)"><title>2026-07-03: 2</title></circle>
   <text class="l" x="547" y="68" font-size="10">Jul</text>
-  <circle class="in" style="animation-delay:0.47s" cx="547" cy="123" r="4.2" fill="url(#st)"><title>2026-07-08: 5</title></circle>
-  <circle class="in" style="animation-delay:0.48s" cx="560" cy="123" r="4.2" fill="url(#st)"><title>2026-07-15: 5</title></circle>
-  <circle class="in" style="animation-delay:0.49s" cx="573" cy="97" r="3.3" fill="url(#st)"><title>2026-07-20: 3</title></circle>
-  <circle class="in" style="animation-delay:0.49s" cx="573" cy="110" r="4.2" fill="url(#st)"><title>2026-07-21: 8</title></circle>
-  <circle class="in" style="animation-delay:0.50s" cx="586" cy="110" r="2.4" fill="url(#st)"><title>2026-07-28: 2</title></circle>
-  <circle class="in" style="animation-delay:0.50s" cx="586" cy="136" r="3.3" fill="url(#st)"><title>2026-07-30: 3</title></circle>
+  <circle class="in" style="animation-delay:0.50s" cx="586" cy="149" r="2.4" fill="url(#st)"><title>2026-07-31: 1</title></circle>
+  <circle class="in" style="animation-delay:0.50s" cx="586" cy="162" r="2.4" fill="url(#st)"><title>2026-08-01: 1</title></circle>
   <text class="l" x="599" y="68" font-size="10">Aug</text>
-  <circle class="in" style="animation-delay:0.52s" cx="599" cy="162" r="4.2" fill="url(#st)"><title>2026-08-08: 8</title></circle>
-  <circle class="in" style="animation-delay:0.53s" cx="612" cy="123" r="2.4" fill="url(#st)"><title>2026-08-12: 1</title></circle>
-  <circle class="in" style="animation-delay:0.53s" cx="612" cy="149" r="2.4" fill="url(#st)"><title>2026-08-14: 1</title></circle>
-  <circle class="in" style="animation-delay:0.53s" cx="612" cy="162" r="2.4" fill="url(#st)"><title>2026-08-15: 1</title></circle>
-  <circle class="in" style="animation-delay:0.54s" cx="625" cy="110" r="2.4" fill="url(#st)"><title>2026-08-18: 2</title></circle>
-  <circle class="in" style="animation-delay:0.54s" cx="625" cy="123" r="2.4" fill="url(#st)"><title>2026-08-19: 1</title></circle>
-  <circle class="in" style="animation-delay:0.54s" cx="625" cy="136" r="3.3" fill="url(#st)"><title>2026-08-20: 3</title></circle>
-  <circle class="in" style="animation-delay:0.54s" cx="625" cy="162" r="3.3" fill="url(#st)"><title>2026-08-22: 3</title></circle>
-  <circle class="in" style="animation-delay:0.55s" cx="638" cy="97" r="5.2" fill="url(#hot)"><title>2026-08-24: 13</title></circle>
-  <circle class="in" style="animation-delay:0.55s" cx="638" cy="110" r="2.4" fill="url(#st)"><title>2026-08-25: 1</title></circle>
-  <circle class="in" style="animation-delay:0.55s" cx="638" cy="136" r="2.4" fill="url(#st)"><title>2026-08-27: 2</title></circle>
-  <circle class="in" style="animation-delay:0.55s" cx="638" cy="149" r="3.3" fill="url(#st)"><title>2026-08-28: 3</title></circle>
-  <circle class="in" style="animation-delay:0.56s" cx="651" cy="84" r="2.4" fill="url(#st)"><title>2026-08-30: 2</title></circle>
-  <circle class="in" style="animation-delay:0.56s" cx="651" cy="97" r="4.2" fill="url(#st)"><title>2026-08-31: 8</title></circle>
-  <circle class="in" style="animation-delay:0.56s" cx="651" cy="123" r="2.4" fill="url(#st)"><title>2026-09-02: 1</title></circle>
-  <circle class="in" style="animation-delay:0.56s" cx="651" cy="149" r="2.4" fill="url(#st)"><title>2026-09-04: 1</title></circle>
+  <circle class="in" style="animation-delay:0.52s" cx="599" cy="84" r="2.4" fill="url(#st)"><title>2026-08-02: 1</title></circle>
+  <circle class="in" style="animation-delay:0.56s" cx="651" cy="84" r="4.2" fill="url(#st)"><title>2026-08-30: 3</title></circle>
+  <circle class="in" style="animation-delay:0.56s" cx="651" cy="97" r="3.3" fill="url(#st)"><title>2026-08-31: 2</title></circle>
+  <circle class="in" style="animation-delay:0.56s" cx="651" cy="110" r="2.4" fill="url(#st)"><title>2026-09-01: 1</title></circle>
+  <circle class="in" style="animation-delay:0.56s" cx="651" cy="149" r="4.2" fill="url(#st)"><title>2026-09-04: 5</title></circle>
   <text class="l" x="664" y="68" font-size="10">Sep</text>
-  <circle class="in" style="animation-delay:0.58s" cx="664" cy="97" r="4.2" fill="url(#st)"><title>2026-09-07: 5</title></circle>
-  <circle class="in" style="animation-delay:0.58s" cx="664" cy="110" r="4.2" fill="url(#st)"><title>2026-09-08: 5</title></circle>
-  <circle class="in" style="animation-delay:0.58s" cx="664" cy="123" r="5.2" fill="url(#hot)"><title>2026-09-09: 13</title></circle>
-  <circle class="in" style="animation-delay:0.58s" cx="664" cy="136" r="4.2" fill="url(#st)"><title>2026-09-10: 5</title></circle>
-  <circle class="in" style="animation-delay:0.58s" cx="664" cy="149" r="4.2" fill="url(#st)"><title>2026-09-11: 5</title></circle>
-  <circle class="in" style="animation-delay:0.59s" cx="677" cy="84" r="2.4" fill="url(#st)"><title>2026-09-13: 2</title></circle>
-  <circle class="in" style="animation-delay:0.59s" cx="677" cy="110" r="5.2" fill="url(#hot)"><title>2026-09-15: 13</title></circle>
-  <circle class="in" style="animation-delay:0.59s" cx="677" cy="136" r="3.3" fill="url(#st)"><title>2026-09-17: 3</title></circle>
-  <circle class="in" style="animation-delay:0.60s" cx="690" cy="84" r="5.2" fill="url(#hot)"><title>2026-09-20: 13</title></circle>
-  <circle class="in" style="animation-delay:0.60s" cx="690" cy="110" r="2.4" fill="url(#st)"><title>2026-09-22: 2</title></circle>
-  <circle class="in" style="animation-delay:0.60s" cx="690" cy="123" r="5.2" fill="url(#hot)"><title>2026-09-23: 13</title></circle>
-  <circle class="in" style="animation-delay:0.61s" cx="703" cy="84" r="2.4" fill="url(#st)"><title>2026-09-27: 2</title></circle>
-  <circle class="in" style="animation-delay:0.61s" cx="703" cy="110" r="2.4" fill="url(#st)"><title>2026-09-29: 2</title></circle>
-  <circle class="in" style="animation-delay:0.61s" cx="703" cy="123" r="4.2" fill="url(#st)"><title>2026-09-30: 5</title></circle>
-  <circle class="in" style="animation-delay:0.61s" cx="703" cy="136" r="3.3" fill="url(#st)"><title>2026-10-01: 3</title></circle>
-  <circle class="in" style="animation-delay:0.62s" cx="716" cy="84" r="2.4" fill="url(#st)"><title>2026-10-04: 2</title></circle>
+  <circle class="in" style="animation-delay:0.58s" cx="664" cy="97" r="2.4" fill="url(#st)"><title>2026-09-07: 1</title></circle>
+  <circle class="in" style="animation-delay:0.58s" cx="664" cy="149" r="2.4" fill="url(#st)"><title>2026-09-11: 1</title></circle>
+  <circle class="in" style="animation-delay:0.59s" cx="677" cy="84" r="2.4" fill="url(#st)"><title>2026-09-13: 1</title></circle>
+  <circle class="in" style="animation-delay:0.59s" cx="677" cy="110" r="3.3" fill="url(#st)"><title>2026-09-15: 2</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="84" r="2.4" fill="url(#st)"><title>2026-09-20: 1</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="97" r="4.2" fill="url(#st)"><title>2026-09-21: 3</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="123" r="3.3" fill="url(#st)"><title>2026-09-23: 2</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="136" r="4.2" fill="url(#st)"><title>2026-09-24: 5</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="149" r="3.3" fill="url(#st)"><title>2026-09-25: 2</title></circle>
+  <circle class="in" style="animation-delay:0.60s" cx="690" cy="162" r="4.2" fill="url(#st)"><title>2026-09-26: 3</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="84" r="3.3" fill="url(#st)"><title>2026-09-27: 2</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="110" r="5.2" fill="url(#hot)"><title>2026-09-29: 75</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="123" r="5.2" fill="url(#hot)"><title>2026-09-30: 12</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="136" r="5.2" fill="url(#hot)"><title>2026-10-01: 22</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="149" r="4.2" fill="url(#st)"><title>2026-10-02: 4</title></circle>
+  <circle class="in" style="animation-delay:0.61s" cx="703" cy="162" r="5.2" fill="url(#hot)"><title>2026-10-03: 12</title></circle>
+  <circle class="in" style="animation-delay:0.62s" cx="716" cy="84" r="5.2" fill="url(#hot)"><title>2026-10-04: 7</title></circle>
   <text class="l" x="30" y="192">every day an intersection · every stone a day with contributions</text>
   <circle cx="642" cy="188" r="2.4" fill="url(#st)"/>
   <circle cx="658" cy="188" r="3.3" fill="url(#st)"/>
