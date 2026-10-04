@@ -39,11 +39,6 @@ A Go (baduk, weiqi) board that feels every move. It started because I wanted a S
 * Moves you can feel: the best move cracks the wood, captures shatter, and a lo-fi soundtrack synthesised in code heats up with your streaks
 * Online on OGS, with fair play built in: no AI help during live games
 
-<p>
-  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/night-analysis.jpg" alt="Live KataGo analysis with the Night sky theme" width="356">
-  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/joseki-hints.jpg" alt="Joseki continuations shown in the corners" width="356">
-</p>
-
 [Website](https://buddhacodes.github.io/BadukDana/) · [Download](https://github.com/BuddhaCodes/BadukDana/releases/latest) · Windows · macOS · Linux
 
 <p align="center"><sub>Open to feedback, ideas and collaboration. If you build something with these, I'd love to see it.</sub></p>
