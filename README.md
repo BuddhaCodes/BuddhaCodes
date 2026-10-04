@@ -1,4 +1,7 @@
-<h1 align="center">BuddhaCodes</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="BuddhaCodes: C# developer building creative tools: graphics, sound and games" width="900">
+</p>
+
 <p align="center"><b>C# developer building creative tools: graphics, sound, and games.</b><br>
 I like turning code into things you can see, hear and play.</p>
 
@@ -39,6 +42,19 @@ A Go (baduk, weiqi) board that feels every move. It started because I wanted a S
 * Moves you can feel: the best move cracks the wood, captures shatter, and a lo-fi soundtrack synthesised in code heats up with your streaks
 * Online on OGS, with fair play built in: no AI help during live games
 
+<p>
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/night-analysis.jpg" alt="Live KataGo analysis with the Night sky theme" width="356">
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/joseki-hints.jpg" alt="Joseki continuations shown in the corners" width="356">
+</p>
+
 [Website](https://buddhacodes.github.io/BadukDana/) · [Download](https://github.com/BuddhaCodes/BadukDana/releases/latest) · Windows · macOS · Linux
+
+### 📊 Activity
+
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub stats" width="520"><br>
+  <img src="assets/languages.svg" alt="Top languages" width="520"><br>
+  <img src="assets/goban.svg" alt="Contributions over the last year, drawn as stones on a goban">
+</p>
 
 <p align="center"><sub>Open to feedback, ideas and collaboration. If you build something with these, I'd love to see it.</sub></p>
