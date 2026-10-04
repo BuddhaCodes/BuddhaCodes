@@ -12,6 +12,10 @@ I like turning code into things you can see, hear and play.</p>
 
 ### 🎨 [DanaProcessing](https://github.com/BuddhaCodes/DanaProcessing)
 
+<a href="https://buddhacodes.github.io/DanaProcessing/">
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/DanaProcessing/master/og-image.png" alt="DanaProcessing: creative coding in C#, the Processing way" width="720">
+</a>
+
 Creative coding in C#, the Processing way. It started because I wanted Processing / p5.js in C#, and grew into its own thing:
 
 * Its own IDE: live diagnostics, under-a-second Run, and hot reload that keeps your sketch's state
@@ -23,6 +27,10 @@ Creative coding in C#, the Processing way. It started because I wanted Processin
 
 ### ⚫⚪ [Hoshi 星 (BadukDana)](https://github.com/BuddhaCodes/BadukDana)
 
+<a href="https://buddhacodes.github.io/BadukDana/">
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/og-cover.jpg" alt="Hoshi: a Go board that feels every move" width="720">
+</a>
+
 A Go (baduk, weiqi) board that feels every move. It started because I wanted a Sabaki-like board in Avalonia, and grew into a place to play, study and review:
 
 * A board you want to look at: kaya, bamboo and walnut gobans, clam-shell, yunzi and glass stones, all rendered from code, mixable with five themes
@@ -30,6 +38,11 @@ A Go (baduk, weiqi) board that feels every move. It started because I wanted a S
 * Joseki on the board: the known continuations in every corner from the OGS Joseki Explorer, plus a spaced-repetition trainer
 * Moves you can feel: the best move cracks the wood, captures shatter, and a lo-fi soundtrack synthesised in code heats up with your streaks
 * Online on OGS, with fair play built in: no AI help during live games
+
+<p>
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/night-analysis.jpg" alt="Live KataGo analysis with the Night sky theme" width="356">
+  <img src="https://raw.githubusercontent.com/BuddhaCodes/BadukDana/main/docs/site/img/joseki-hints.jpg" alt="Joseki continuations shown in the corners" width="356">
+</p>
 
 [Website](https://buddhacodes.github.io/BadukDana/) · [Download](https://github.com/BuddhaCodes/BadukDana/releases/latest) · Windows · macOS · Linux
 
