@@ -10,25 +10,27 @@ I like turning code into things you can see, hear and play.</p>
   <img src="https://img.shields.io/badge/Roslyn-1B3C53?style=flat-square" alt="Roslyn">
 </p>
 
----
-
 ### 🎨 [DanaProcessing](https://github.com/BuddhaCodes/DanaProcessing)
-
-[![DanaProcessing](https://buddhacodes.github.io/DanaProcessing/og-image.png)](https://buddhacodes.github.io/DanaProcessing/)
 
 Creative coding in C#, the Processing way. It started because I wanted Processing / p5.js in C#, and grew into its own thing:
 
-- **Its own IDE**: live diagnostics, under-a-second Run, and hot reload that keeps your sketch's state
-- **2D and real 3D**: SkiaSharp and OpenGL, up to 200,000 GPU particles
-- **Live-coded sound**: an audio engine inspired by Sonic Pi, written from scratch: `[LiveLoop]`, synths, drums, and visuals that react on the beat
-- **Any NuGet package as a sketch library**: one `// nuget:` comment and it's linked
+* Its own IDE: live diagnostics, under-a-second Run, and hot reload that keeps your sketch's state
+* 2D and real 3D: SkiaSharp and OpenGL, up to 200,000 GPU particles
+* Live-coded sound: an audio engine inspired by Sonic Pi, written from scratch: `[LiveLoop]`, synths, drums, and visuals that react on the beat
+* Any NuGet package as a sketch library: one `// nuget:` comment and it's linked
 
 [Docs](https://buddhacodes.github.io/DanaProcessing/) · [Download](https://github.com/BuddhaCodes/DanaProcessing/releases/latest) · MIT
 
 ### ⚫⚪ [Hoshi 星 (BadukDana)](https://github.com/BuddhaCodes/BadukDana)
 
-A cross-platform Go (baduk) app for Windows, macOS and Linux: Kaya-style boards and stones, game review with KataGo, and joseki study.
+A Go (baduk, weiqi) board that feels every move. It started because I wanted a Sabaki-like board in Avalonia, and grew into a place to play, study and review:
 
----
+* A board you want to look at: kaya, bamboo and walnut gobans, clam-shell, yunzi and glass stones, all rendered from code, mixable with five themes
+* KataGo in the background: every move rated with points lost, territory, a score graph, and a review of every game you've played
+* Joseki on the board: the known continuations in every corner from the OGS Joseki Explorer, plus a spaced-repetition trainer
+* Moves you can feel: the best move cracks the wood, captures shatter, and a lo-fi soundtrack synthesised in code heats up with your streaks
+* Online on OGS, with fair play built in: no AI help during live games
+
+[Website](https://buddhacodes.github.io/BadukDana/) · [Download](https://github.com/BuddhaCodes/BadukDana/releases/latest) · Windows · macOS · Linux
 
 <p align="center"><sub>Open to feedback, ideas and collaboration. If you build something with these, I'd love to see it.</sub></p>
