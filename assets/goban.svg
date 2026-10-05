@@ -15,7 +15,7 @@
   <text class="t" x="22" y="32">contribution goban</text>
   <rect x="22" y="40" width="34" height="2" rx="1" fill="url(#dana)"/>
   <rect x="1" y="1" width="744" height="2" rx="1" fill="url(#dana)" opacity=".7"/>
-  <text class="r" x="724" y="32" text-anchor="end">176 contributions · last year</text>
+  <text class="r" x="724" y="32" text-anchor="end">189 contributions · last year</text>
   <defs><radialGradient id="st" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#ece8de"/><stop offset="1" stop-color="#b5ad9b"/></radialGradient><radialGradient id="hot" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#fff6d8"/><stop offset=".55" stop-color="#f0d594"/><stop offset="1" stop-color="#d9b45a"/></radialGradient></defs>
   <rect x="30" y="74" width="696" height="98" rx="4" fill="#151c33"/>
   <path d="M40 84V162 M53 84V162 M66 84V162 M79 84V162 M92 84V162 M105 84V162 M118 84V162 M131 84V162 M144 84V162 M157 84V162 M170 84V162 M183 84V162 M196 84V162 M209 84V162 M222 84V162 M235 84V162 M248 84V162 M261 84V162 M274 84V162 M287 84V162 M300 84V162 M313 84V162 M326 84V162 M339 84V162 M352 84V162 M365 84V162 M378 84V162 M391 84V162 M404 84V162 M417 84V162 M430 84V162 M443 84V162 M456 84V162 M469 84V162 M482 84V162 M495 84V162 M508 84V162 M521 84V162 M534 84V162 M547 84V162 M560 84V162 M573 84V162 M586 84V162 M599 84V162 M612 84V162 M625 84V162 M638 84V162 M651 84V162 M664 84V162 M677 84V162 M690 84V162 M703 84V162 M716 84V162 M40 84H716 M40 97H716 M40 110H716 M40 123H716 M40 136H716 M40 149H716 M40 162H716" stroke="#d9b45a" stroke-opacity=".16" stroke-width="1"/>
@@ -62,7 +62,7 @@
   <circle class="in" style="animation-delay:0.61s" cx="703" cy="136" r="5.2" fill="url(#hot)"><title>2026-10-01: 22</title></circle>
   <circle class="in" style="animation-delay:0.61s" cx="703" cy="149" r="4.2" fill="url(#st)"><title>2026-10-02: 4</title></circle>
   <circle class="in" style="animation-delay:0.61s" cx="703" cy="162" r="5.2" fill="url(#hot)"><title>2026-10-03: 12</title></circle>
-  <circle class="in" style="animation-delay:0.62s" cx="716" cy="84" r="5.2" fill="url(#hot)"><title>2026-10-04: 7</title></circle>
+  <circle class="in" style="animation-delay:0.62s" cx="716" cy="84" r="5.2" fill="url(#hot)"><title>2026-10-04: 20</title></circle>
   <text class="l" x="30" y="192">every day an intersection · every stone a day with contributions</text>
   <circle cx="642" cy="188" r="2.4" fill="url(#st)"/>
   <circle cx="658" cy="188" r="3.3" fill="url(#st)"/>
