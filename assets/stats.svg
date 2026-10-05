@@ -1,24 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="146" viewBox="0 0 520 146" role="img" aria-label="Jose Alberto Thaureaux Rodriguez">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="188" viewBox="0 0 520 188" role="img" aria-label="Jose Alberto Thaureaux Rodriguez">
   <style>
     .t { font: 600 15px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
     .r { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8e93ad; }
-    .n { font: 700 26px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
+    .n { font: 700 24px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
+    .lv { font: 800 40px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #f0d594; }
     .l { font: 11.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8e93ad; }
     .s { font: 13px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
     .g { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #d9b45a; }
     .in { opacity: 0; animation: in .6s ease-out forwards; }
     @keyframes in { to { opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+    .draw { stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw 1s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .glow { animation: glow 3.2s ease-in-out infinite; }
+    @keyframes glow { 50% { opacity: .45; } }
+    @media (prefers-reduced-motion: reduce) { .in, .draw, .glow { animation: none; opacity: 1; stroke-dashoffset: 0; } }
   </style>
   <defs><linearGradient id="dana" x1="0" x2="1"><stop offset="0" stop-color="#e2567a"/><stop offset=".55" stop-color="#f0a040"/><stop offset="1" stop-color="#d9b45a"/></linearGradient></defs>
-  <rect x=".5" y=".5" width="519" height="145" rx="10" fill="#10162b" stroke="#26304f"/>
+  <rect x=".5" y=".5" width="519" height="187" rx="10" fill="#10162b" stroke="#26304f"/>
   <text class="t" x="22" y="32">Jose Alberto Thaureaux Rodriguez</text>
   <rect x="22" y="40" width="34" height="2" rx="1" fill="url(#dana)"/>
   <rect x="1" y="1" width="518" height="2" rx="1" fill="url(#dana)" opacity=".7"/>
-  <text class="r" x="498" y="32" text-anchor="end">@BuddhaCodes</text>
-  <g class="in" style="animation-delay:0.00s"><text class="n" x="69.6" y="92" text-anchor="middle">9</text><rect x="55.6" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="69.6" y="124" text-anchor="middle">repos</text></g>
-  <g class="in" style="animation-delay:0.08s"><text class="n" x="164.8" y="92" text-anchor="middle">4</text><rect x="150.8" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="164.8" y="124" text-anchor="middle">stars</text></g>
-  <g class="in" style="animation-delay:0.16s"><text class="n" x="260.0" y="92" text-anchor="middle">2</text><rect x="246.0" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="260.0" y="124" text-anchor="middle">followers</text></g>
-  <g class="in" style="animation-delay:0.24s"><text class="n" x="355.2" y="92" text-anchor="middle">180</text><rect x="341.2" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="355.2" y="124" text-anchor="middle">commits · 1y</text></g>
-  <g class="in" style="animation-delay:0.32s"><text class="n" x="450.4" y="92" text-anchor="middle">3</text><rect x="436.4" y="102" width="28" height="3" rx="1.5" fill="url(#dana)"/><text class="l" x="450.4" y="124" text-anchor="middle">PRs · 1y</text></g>
+  <text class="r" x="498" y="32" text-anchor="end">character sheet</text>
+  <g class="in"><text class="lv" x="22" y="92">8</text><text class="l" x="24" y="110">level</text><text class="l" x="112" y="72">xp 229 · 27 to level 9</text><rect x="112" y="80" width="386" height="8" rx="4" fill="#26304f"/><rect x="112" y="80" width="212.3" height="8" rx="4" fill="url(#dana)"/></g>
+  <g class="in" style="animation-delay:0.30s"><text class="g" x="69.6" y="130" text-anchor="middle">▣</text><text class="n" x="69.6" y="154" text-anchor="middle">9</text><text class="l" x="69.6" y="173" text-anchor="middle">repos</text></g>
+  <g class="in" style="animation-delay:0.38s"><text class="g" x="164.8" y="130" text-anchor="middle">★</text><text class="n" x="164.8" y="154" text-anchor="middle">4</text><text class="l" x="164.8" y="173" text-anchor="middle">stars</text></g>
+  <g class="in" style="animation-delay:0.46s"><text class="g" x="260.0" y="130" text-anchor="middle">◇</text><text class="n" x="260.0" y="154" text-anchor="middle">2</text><text class="l" x="260.0" y="173" text-anchor="middle">followers</text></g>
+  <g class="in" style="animation-delay:0.54s"><text class="g" x="355.2" y="130" text-anchor="middle">♥</text><text class="n" x="355.2" y="154" text-anchor="middle">180</text><text class="l" x="355.2" y="173" text-anchor="middle">commits · 1y</text></g>
+  <g class="in" style="animation-delay:0.62s"><text class="g" x="450.4" y="130" text-anchor="middle">◆</text><text class="n" x="450.4" y="154" text-anchor="middle">3</text><text class="l" x="450.4" y="173" text-anchor="middle">PRs · 1y</text></g>
 </svg>
