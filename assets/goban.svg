@@ -2,13 +2,18 @@
   <style>
     .t { font: 600 15px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
     .r { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8e93ad; }
-    .n { font: 700 26px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
+    .n { font: 700 24px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
+    .lv { font: 800 40px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #f0d594; }
     .l { font: 11.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8e93ad; }
     .s { font: 13px 'Segoe UI', 'Helvetica Neue', Ubuntu, sans-serif; fill: #ece8de; }
     .g { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #d9b45a; }
     .in { opacity: 0; animation: in .6s ease-out forwards; }
     @keyframes in { to { opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+    .draw { stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw 1s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .glow { animation: glow 3.2s ease-in-out infinite; }
+    @keyframes glow { 50% { opacity: .45; } }
+    @media (prefers-reduced-motion: reduce) { .in, .draw, .glow { animation: none; opacity: 1; stroke-dashoffset: 0; } }
   </style>
   <defs><linearGradient id="dana" x1="0" x2="1"><stop offset="0" stop-color="#e2567a"/><stop offset=".55" stop-color="#f0a040"/><stop offset="1" stop-color="#d9b45a"/></linearGradient></defs>
   <rect x=".5" y=".5" width="745" height="205" rx="10" fill="#10162b" stroke="#26304f"/>
@@ -23,29 +28,31 @@
   <circle cx="248" cy="123" r="1.8" fill="#d9b45a" fill-opacity=".45"/>
   <circle cx="417" cy="123" r="1.8" fill="#d9b45a" fill-opacity=".45"/>
   <circle cx="586" cy="123" r="1.8" fill="#d9b45a" fill-opacity=".45"/>
+  <path d="M586 149L586 162 M651 84L651 97 M651 97L664 97 M651 97L651 110 M651 149L664 149 M677 84L690 84 M690 84L703 84 M690 84L690 97 M703 84L716 84" stroke="#ece8de" stroke-opacity=".35" stroke-width="1.4" stroke-linecap="round"/>
+  <path class="glow" d="M690 123L703 123 M690 123L690 136 M690 136L703 136 M690 136L690 149 M690 149L703 149 M690 149L690 162 M690 162L703 162 M703 110L703 123 M703 123L703 136 M703 136L703 149 M703 149L703 162" stroke="#f0d594" stroke-width="2.2" stroke-linecap="round"/>
   <text class="l" x="40" y="68" font-size="10">Oct</text>
-  <circle class="in" style="animation-delay:0.01s" cx="53" cy="97" r="2.4" fill="url(#st)"><title>2025-10-13: 1</title></circle>
   <text class="l" x="92" y="68" font-size="10">Nov</text>
-  <circle class="in" style="animation-delay:0.07s" cx="118" cy="149" r="2.4" fill="url(#st)"><title>2025-11-21: 1</title></circle>
   <text class="l" x="157" y="68" font-size="10">Dec</text>
   <text class="l" x="209" y="68" font-size="10">Jan</text>
   <text class="l" x="261" y="68" font-size="10">Feb</text>
   <text class="l" x="313" y="68" font-size="10">Mar</text>
-  <circle class="in" style="animation-delay:0.25s" cx="313" cy="123" r="4.2" fill="url(#st)"><title>2026-03-04: 4</title></circle>
-  <circle class="in" style="animation-delay:0.26s" cx="326" cy="97" r="2.4" fill="url(#st)"><title>2026-03-09: 1</title></circle>
   <text class="l" x="378" y="68" font-size="10">Apr</text>
   <text class="l" x="430" y="68" font-size="10">May</text>
   <text class="l" x="495" y="68" font-size="10">Jun</text>
   <text class="l" x="547" y="68" font-size="10">Jul</text>
+  <text class="l" x="599" y="68" font-size="10">Aug</text>
+  <text class="l" x="664" y="68" font-size="10">Sep</text>
+  <circle class="in" style="animation-delay:0.01s" cx="53" cy="97" r="2.4" fill="url(#st)"><title>2025-10-13: 1</title></circle>
+  <circle class="in" style="animation-delay:0.07s" cx="118" cy="149" r="2.4" fill="url(#st)"><title>2025-11-21: 1</title></circle>
+  <circle class="in" style="animation-delay:0.25s" cx="313" cy="123" r="4.2" fill="url(#st)"><title>2026-03-04: 4</title></circle>
+  <circle class="in" style="animation-delay:0.26s" cx="326" cy="97" r="2.4" fill="url(#st)"><title>2026-03-09: 1</title></circle>
   <circle class="in" style="animation-delay:0.50s" cx="586" cy="149" r="2.4" fill="url(#st)"><title>2026-07-31: 1</title></circle>
   <circle class="in" style="animation-delay:0.50s" cx="586" cy="162" r="2.4" fill="url(#st)"><title>2026-08-01: 1</title></circle>
-  <text class="l" x="599" y="68" font-size="10">Aug</text>
   <circle class="in" style="animation-delay:0.52s" cx="599" cy="84" r="2.4" fill="url(#st)"><title>2026-08-02: 1</title></circle>
   <circle class="in" style="animation-delay:0.56s" cx="651" cy="84" r="4.2" fill="url(#st)"><title>2026-08-30: 3</title></circle>
   <circle class="in" style="animation-delay:0.56s" cx="651" cy="97" r="3.3" fill="url(#st)"><title>2026-08-31: 2</title></circle>
   <circle class="in" style="animation-delay:0.56s" cx="651" cy="110" r="2.4" fill="url(#st)"><title>2026-09-01: 1</title></circle>
   <circle class="in" style="animation-delay:0.56s" cx="651" cy="149" r="4.2" fill="url(#st)"><title>2026-09-04: 5</title></circle>
-  <text class="l" x="664" y="68" font-size="10">Sep</text>
   <circle class="in" style="animation-delay:0.58s" cx="664" cy="97" r="2.4" fill="url(#st)"><title>2026-09-07: 1</title></circle>
   <circle class="in" style="animation-delay:0.58s" cx="664" cy="149" r="2.4" fill="url(#st)"><title>2026-09-11: 1</title></circle>
   <circle class="in" style="animation-delay:0.59s" cx="677" cy="84" r="2.4" fill="url(#st)"><title>2026-09-13: 1</title></circle>
@@ -64,8 +71,5 @@
   <circle class="in" style="animation-delay:0.61s" cx="703" cy="162" r="5.2" fill="url(#hot)"><title>2026-10-03: 12</title></circle>
   <circle class="in" style="animation-delay:0.62s" cx="716" cy="84" r="5.2" fill="url(#hot)"><title>2026-10-04: 20</title></circle>
   <text class="l" x="30" y="192">every day an intersection · every stone a day with contributions</text>
-  <circle cx="642" cy="188" r="2.4" fill="url(#st)"/>
-  <circle cx="658" cy="188" r="3.3" fill="url(#st)"/>
-  <circle cx="674" cy="188" r="4.2" fill="url(#st)"/>
-  <circle cx="690" cy="188" r="5.2" fill="url(#hot)"/>
+  <text class="g" x="726" y="192" text-anchor="end">28 stones · 11 chains · longest 9</text>
 </svg>
