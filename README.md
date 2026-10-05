@@ -47,9 +47,9 @@ A Go (baduk, weiqi) board that feels every move. It started because I wanted a S
 ### 📊 Activity
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats" width="520"><br>
-  <img src="assets/languages.svg" alt="Top languages" width="520"><br>
-  <img src="assets/goban.svg" alt="Contributions over the last year, drawn as stones on a goban">
+  <a href="https://github.com/BuddhaCodes"><img src="assets/stats.svg" alt="Character sheet: level, XP and GitHub stats" width="520"></a><br>
+  <img src="assets/languages.svg" alt="Skill tree of my top languages" width="520"><br>
+  <img src="assets/goban.svg" alt="Contributions over the last year as stones on a goban; touching days form chains">
 </p>
 
 <p align="center"><sub>Open to feedback, ideas and collaboration. If you build something with these, I'd love to see it.</sub></p>
